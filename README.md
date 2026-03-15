@@ -106,9 +106,9 @@ Skill 内置了一个完整的演示案例：
 > 如果这个 Skill 对你有帮助，欢迎 ⭐ Star 支持！
 
 同系列项目：
-- 📊 [ai-ppt-toolkit](https://github.com/wilingna/ai-ppt-toolkit) — AI 做 PPT 三件套 Skill
-- 🌐 [ai-ppt-web](https://github.com/wilingna/ai-ppt-web) — AI 做 PPT 网页版工具
+- 📊 [ai-ppt-toolkit](https://github.com/wilingna/ai-ppt-toolkit) — AI 做 PPT 三件套 Skill · [视频笔记](http://xhslink.com/o/3gXayZ0YmTJ)
+- 🌐 [ai-ppt-web](https://github.com/wilingna/ai-ppt-web) — AI 做 PPT 网页版工具 · [视频笔记](http://xhslink.com/o/I7ygXoZv2K)
 
-- 视频主页：[链接]
-- 小红书：[链接]
-- B站：[链接]
+- 小红书：[会灵那的主页](https://xhslink.com/m/9EL7CXk2TP5)
+- B站：[会灵那的个人空间](https://b23.tv/glseBuh)
+
